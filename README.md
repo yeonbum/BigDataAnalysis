@@ -1,17 +1,17 @@
-# 🚢 AIS 빅데이터 처리 및 해상 네트워크 분석
+# 🚢 자율운항을 위한 해상교통 빅데이터 분석 및 해상 네비게이션 시스템 개발
 
-이 저장소는 **AIS(Automatic Identification System) 데이터 처리 및 해상 네트워크 분석**을 위한 프로젝트입니다.  
-대규모 AIS 데이터를 효율적으로 처리하고, 머신러닝을 활용하여 선박 경로를 예측하며, 대시보드를 통해 실시간으로 데이터를 시각화하는 기능을 포함합니다.  
+이 저장소는 **자율운항을 위한 해상교통 빅데이터 분석 및 해상 네비게이션 시스템 개발**을 위한 프로젝트입니다.  
 
 
-연구개발 내용
+연구개발 배경
 -----
-![image](https://github.com/user-attachments/assets/fc91bc05-e375-431a-b4f7-12da23001f40)
+<img width="1821" height="998" alt="image" src="https://github.com/user-attachments/assets/3794317f-2233-43ea-89d1-e7aa92083af4" />
+
 
 
 데이터 구축
 -----
-![image](https://github.com/user-attachments/assets/a805d76c-4fa3-40cd-bd41-4d953b09f0fe)
+<img width="742" height="412" alt="image" src="https://github.com/user-attachments/assets/39ba5d62-022d-44bd-a3b8-64c58524b901" />
 
 
 모델 구조
