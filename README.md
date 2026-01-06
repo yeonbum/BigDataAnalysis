@@ -2,40 +2,40 @@
 
 프로젝트 목표
 -----
-<img width="741" height="414" alt="image" src="https://github.com/user-attachments/assets/dd311407-07c0-459d-8121-690e4dea51a4" />
+<img width="984" height="545" alt="image" src="https://github.com/user-attachments/assets/cba6ab82-24b9-4265-92ee-182e11123a43" />
 
 
 AIS 데이터 관리 시스템 구축
 -----
-<img width="737" height="409" alt="image" src="https://github.com/user-attachments/assets/a4a4cd47-54cb-435e-89cb-7e1448f9e233" />
+<img width="973" height="544" alt="image" src="https://github.com/user-attachments/assets/cb1d9c84-ec61-4cd6-9221-5e2805872aae" />
 
 
 빅데이터 분석 - 항로 밀도 분석
 -----
-<img width="741" height="415" alt="image" src="https://github.com/user-attachments/assets/394521e0-819f-4bdf-b815-a8de7bcb77e7" />
+<img width="978" height="543" alt="image" src="https://github.com/user-attachments/assets/7b91545f-b553-4f67-b05c-991e11eafc50" />
 
 
 빅데이터 분석 - 속력-방위각 분포
 -----
-<img width="737" height="412" alt="image" src="https://github.com/user-attachments/assets/77ff975f-e686-4d6f-9042-1eea6066de23" />
+<img width="987" height="544" alt="image" src="https://github.com/user-attachments/assets/15a60a31-a2a9-4c45-ba91-bd4f31c4a435" />
 
 
 빅데이터 분석 - 데이터 품질 특성
 -----
-<img width="744" height="412" alt="image" src="https://github.com/user-attachments/assets/e8c3d136-360c-40b5-9e48-7ad7a4218ec6" />
+<img width="979" height="547" alt="image" src="https://github.com/user-attachments/assets/f9d39aac-1556-4749-967f-79d67a02e6a9" />
 
 
 모델 아키텍처 설계
 -----
-<img width="741" height="414" alt="image" src="https://github.com/user-attachments/assets/a672212b-322f-46bc-a615-548f7fc22036" />
+<img width="987" height="547" alt="image" src="https://github.com/user-attachments/assets/c1d07eb3-c306-4737-94e5-da066233c4d8" />
 
 
 성능평가 - 정량적 비교
 -----
-<img width="738" height="408" alt="image" src="https://github.com/user-attachments/assets/86072379-9c48-427c-9d00-a8a0909c7e68" />
+<img width="986" height="550" alt="image" src="https://github.com/user-attachments/assets/682f1e91-918d-40d6-a685-46539903e2b0" />
 
 
 성능평가 - 시각적 비교
 -----
-<img width="742" height="407" alt="image" src="https://github.com/user-attachments/assets/5f529252-cf2f-4eaa-9894-87d5bdd41570" />
+<img width="983" height="546" alt="image" src="https://github.com/user-attachments/assets/27111b55-9a98-4ee5-ad81-5623e0b4b8eb" />
 
